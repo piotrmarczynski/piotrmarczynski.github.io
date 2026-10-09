@@ -6,7 +6,7 @@ permalink: /publication/2025-the-wellness-pipeline
 date: 2025-01-01
 venue: 'New Media & Society'
 link: 'https://doi.org/10.1177/14614448251385082'
-paperurl: 'https://doi.org/10.1177/14614448251385082'
+redirect_to: 'https://doi.org/10.1177/14614448251385082'
 citation: 'Marczyński, P., & Tebaldi, C. (2025). The wellness pipeline: Tracing far-right health narratives on X. <i>New Media & Society</i>.'
 ---
 
