@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Piotr Marczyński is a PhD candidate in political science at the [Université libre de Bruxelles](https://www.ulb.be), where he is a member of the Social Media Lab. His research examines how political elites and online communities produce and spread conspiratorial and far-right narratives on social media platforms, combining computational text and network analysis with qualitative methods.
+Piotr Marczyński is a PhD candidate in political science at the Center for the Study of Politics at Université libre de Bruxelles, where he is a member of the [Social Media Lab](https://cevipol.phisoc.ulb.be/fr/projets-de-recherche/sml). His research examines how political elites and online communities produce and spread conspiratorial and far-right narratives on social media platforms, combining computational text and network analysis with qualitative methods.
 
-His work has been published in *Information, Communication & Society*, *New Media & Society*, and *Political Studies*. In 2025 he was a visiting research fellow at Sciences Po Paris and the University of Gothenburg.
+His work has been published in *Information, Communication & Society*, *New Media & Society*, and *Political Studies*. He was a visiting research fellow at the Department of Journalism, Media and Communication (JMG) at the University of Gothenburg and Centre for European Studies and Comparative Politics (CEE) at Sciences Po Paris.
 
 Research
 ======
